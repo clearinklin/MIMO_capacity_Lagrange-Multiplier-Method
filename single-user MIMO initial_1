@@ -1,0 +1,1 @@
+# Code for solving the single-user MIMO system with unit-gain channels, where the number of receive antennas, total power, 和 noise power are fixed, 和 the number of transmit antennas is treated as a variable.
